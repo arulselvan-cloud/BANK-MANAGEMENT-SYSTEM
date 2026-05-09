@@ -87,4 +87,4 @@ A secure and functional banking system capable of performing deposits, withdrawa
 
 ## 👨‍💻 Author
 
-Developed by **arulselvan** as part of the Thiranex Internship Program.
+Developed by **ARULSELVAN** as part of the Thiranex Internship Program.
